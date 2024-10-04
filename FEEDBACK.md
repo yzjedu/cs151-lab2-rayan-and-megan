@@ -25,9 +25,10 @@
 |**YES-**| There is a block of introductory comments at the top |  
 |**YES-**| Purpose of the program is stated below or above intro comments as a comment  |
 |**YES-**| There are comments in the code (do not need to determine if they are good)|
-|**-NO**| Nothing is typecast to an int during calculation (fine at end for output or to typecast input as int)|
+|**-YES**| Nothing is typecast to an int during calculation (fine at end for output or to typecast input as int)|
 
 ### Comments on the grading
-- The algorithm in the document and the code does not match. Hence, there is a need for revision and resubmission 
+- The algorithm in the document and the code does not match.  
+- Hence, there is a need for revision and resubmission 
 - Address all the NO in this feedback document. 
-### Grade: R
+### Grade: M
